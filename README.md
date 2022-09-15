@@ -1,1 +1,1 @@
-Practicing Project Euler math questions while properly  maintainting Git repositories
+Practicing Project Euler math questions while properly maintainting Git repositories
